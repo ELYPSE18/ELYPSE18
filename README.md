@@ -37,7 +37,7 @@
 
 <div align="center">
 
-  | <a href="https://github.com/ELYPSE18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ELYPSE18&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rémi's github stats" /></a> | <a href="https://github.com/ELYPSE18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELYPSE18&layout=compact&theme=buefy&hide_border=true" /></a> |
+  | <a href="https://github.com/ELYPSE18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ELYPSE18&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ELYPSE18's github stats" /></a> | <a href="https://github.com/ELYPSE18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELYPSE18&layout=compact&theme=buefy&hide_border=true" /></a> |
   
 </div>
 
