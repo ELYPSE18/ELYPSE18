@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋! My name is Rémi Chainey and I'm a developer in training from France.</h1>
 
-<img align="left" height="250" src="https://www.gif-maniac.com/gifs/50/49785.gif"  />
+<img align="left" height="250" src="https://img.freepik.com/photos-premium/lofi-girl-style-mettant-vedette-garcon-etudiant-ecoutant-musique_940839-111.jpg"  />
 
 <div>
   
